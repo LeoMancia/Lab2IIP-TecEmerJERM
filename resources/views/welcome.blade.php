@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mi Parcial en Laravel
+                    CRUD en Laravel
                 </div>
                 <div class="title m-b-md">
                     Jose Eliseo Ramos Mancia
